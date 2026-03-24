@@ -1,0 +1,9 @@
+# Requirements for S1 Leave Tracking System Telegram Bot
+
+# Telegram bot framework
+telebot>=0.0.5
+
+# Calendar widget for Telegram bots
+telegram_bot_calendar>=1.0.0
+
+# Note: sqlite3, threading, datetime are built-in Python modules
